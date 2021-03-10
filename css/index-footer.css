@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@700&display=swap');
+.footer {
+    height: 100%
+}
+
+:root {
+    background-color: yellow;
+}
+
+.logo {
+    font-family: 'Source Serif Pro', serif;
+    font-size: 25px;
+    color: #f7f7f7;
+}
+.contact-info#contact {
+    color: #f7f7f7;
+}
